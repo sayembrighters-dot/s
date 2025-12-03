@@ -1,2 +1,76 @@
 # Mitu Memorial High School Website
-https://sayembrighters-dot.github.io/s/
+
+A modern, responsive school website with premium design and interactive features.
+
+## Features
+
+- **Responsive Design**: Works on all devices (desktop, tablet, mobile)
+- **Dark/Light Mode**: Toggle between themes
+- **Text-to-Speech**: Auto-plays Bengali title in English once per session
+- **Smooth Animations**: GSAP-powered animations and transitions
+- **Modern UI**: Glass morphism effects and gradient designs
+- **Interactive Elements**: Hover effects, typing animations, floating shapes
+
+## Files Structure
+
+```
+sc/
+├── modern-index.html      # Main homepage
+├── modern-styles.css      # Main stylesheet
+├── footer-styles.css      # Footer-specific styles
+├── modern-script.js       # JavaScript functionality
+├── script.js             # Additional scripts
+├── 1.png.jpg             # Hero image 1
+├── 2.png.jpg             # Hero image 2
+├── 3,png.jpg             # Hero image 3
+└── README.md             # This file
+```
+
+## GitHub Publishing
+
+### Quick Deploy to GitHub Pages
+
+1. **Create Repository**
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit: Mitu Memorial High School website"
+   ```
+
+2. **Push to GitHub**
+   ```bash
+   git branch -M main
+   git remote add origin https://github.com/yourusername/mitu-memorial-school.git
+   git push -u origin main
+   ```
+
+3. **Enable GitHub Pages**
+   - Go to repository Settings
+   - Scroll to Pages section
+   - Select "Deploy from a branch"
+   - Choose "main" branch
+   - Click Save
+
+4. **Access Live Site**
+   - Your site will be available at: `https://yourusername.github.io/mitu-memorial-school`
+
+## Technologies Used
+
+- HTML5
+- CSS3 (Grid, Flexbox, Animations)
+- JavaScript (ES6+)
+- GSAP (GreenSock Animation Platform)
+- Google Fonts (Manrope, Inter)
+
+## Setup
+
+1. Download all files to a folder
+2. Open `modern-index.html` in a web browser
+3. Ensure all image files are in the same directory
+
+## Contact
+
+Mitu Memorial High School
+📞 +880 123-456-789
+📧 info@mituschool.edu
+📍 Dhaka, Bangladesh
