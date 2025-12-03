@@ -33,14 +33,14 @@ sc/
 1. **Create Repository**
    ```bash
    git init
-   git add .
+   git add.
    git commit -m "Initial commit: Mitu Memorial High School website"
    ```
 
 2. **Push to GitHub**
    ```bash
    git branch -M main
-   git remote add origin https://github.com/yourusername/mitu-memorial-school.git
+   git remote add origin https://sayembrighters-dot.github.io/sa/
    git push -u origin main
    ```
 
